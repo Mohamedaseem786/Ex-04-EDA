@@ -76,6 +76,7 @@ sns.heatmap(df.corr(),annot=True)
 ![](10.jpg)
 ![](11.jpg)
 ![](12.jpg)
+![](13.jpg)
 
 ## RESULT:
 Thus the given dataset is analysed using EDA method.
